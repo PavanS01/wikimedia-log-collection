@@ -4,3 +4,4 @@
 /build/classes/java/main/
 /kafka-consumer-opensearch/build/
 /kafka-consumer-opensearch/build/classes/java/main/
+/client.properties
